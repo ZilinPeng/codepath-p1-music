@@ -116,7 +116,14 @@ Deployed Application (**required**): [Music Playlist Explorer Deployed Site](ADD
 
 ### Walkthrough Video
 
-<div style="position: relative; padding-bottom: 61.997703788748574%; height: 0;"><iframe src="https://www.loom.com/embed/58730ad9341f42ba9bdf17373be521de?sid=ee3c0c4b-56da-4518-91f8-2a861ba60cba" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/58730ad9341f42ba9bdf17373be521de">
+      <p>Music Playlist Explorer - 2 May 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/58730ad9341f42ba9bdf17373be521de">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/58730ad9341f42ba9bdf17373be521de-602f217840eb9ba5-full-play.gif">
+    </a>
+  </div>
 
 ### Reflection
 
