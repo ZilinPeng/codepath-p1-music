@@ -1,8 +1,8 @@
 ## Unit Assignment: Music Playlist Explorer
 
-Submitted by: **NAME**
+Submitted by: Matthew Peng
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: **#** 3
 
 Deployed Application (**required**): [Music Playlist Explorer Deployed Site](ADD_LINK_HERE)
 
